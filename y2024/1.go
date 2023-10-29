@@ -1,7 +1,6 @@
 package y2024
 
 import (
-	"math"
 	"slices"
 	"strconv"
 
@@ -53,7 +52,7 @@ func (*D1) Run(ctx c.Ctx) error {
 		slices.Sort(right)
 		for i, l := range left {
 			r := right[i]
-			output += int(math.Abs(float64(l - r)))
+			output += c.Abs(l - r)
 		}
 	} else {
 		for _, l := range left {
@@ -62,6 +61,6 @@ func (*D1) Run(ctx c.Ctx) error {
 		}
 	}
 
-	println("OUTPUT", output)
+	c.Output(output, ctx.Two)
 	return nil
 }
