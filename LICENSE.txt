@@ -1,0 +1,29 @@
+TizuOSS 1.0.0
+https://tizu.dev/license/1.0.0
+
+Copyright (c) 2024 tizu69
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software, including but not limited to machine code, assets, and
+associated documentation files (the "Software"), to deal in the Software w/o
+restriction, including without limitation the rights to use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies of the Software,
+subject to the following conditions:
+
+1. All copies or substantial portions of the Software, including modified
+   versions, must retain this license, including copyright notices and
+   permission information.
+2. Redistribution and use of derivative works are permitted, provided that
+   any modifications or derivative works are also licensed under this TizuOSS
+   License, or a newer version of it. Closed-source derivatives of this
+   software are not permitted.
+3. If redistributed in binary form, the medium of redistribution, such as (but
+   not limited to) a website or external drive, should include a direct link
+   to the original source code of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
