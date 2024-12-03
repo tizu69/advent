@@ -3,9 +3,9 @@ package c
 import "fmt"
 
 func Output(val int, two bool) {
-	fmt.Printf("Output")
 	if two {
-		fmt.Printf(" for part 2")
+		fmt.Printf("Output 2: %d\n", val)
+	} else {
+		fmt.Printf("Output  : %d\n", val)
 	}
-	fmt.Printf(": %d\n", val)
 }
