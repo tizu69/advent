@@ -9,3 +9,10 @@ func Output(val int, two bool) {
 		fmt.Printf("Output  : %d\n", val)
 	}
 }
+
+func If[T any](cond bool, then, otherwise T) T {
+	if cond {
+		return then
+	}
+	return otherwise
+}
